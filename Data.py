@@ -19,4 +19,8 @@ class DataPacket:
             return 1
         return 0
         
-    
+    def serialize():
+        pass
+
+    def deserialize():
+        pass   
